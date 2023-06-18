@@ -4,8 +4,8 @@
 
 module.exports = {
 	username: {
-		github: "meugenom",
-		leetcode: "meugenom"
+		github: "monik2002",
+		leetcode: "user9728Zz"
 	},
 	github_token: ""
 };
